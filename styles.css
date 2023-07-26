@@ -5,6 +5,7 @@ button{
 	color: rgb(255, 255, 255);
 	border-radius: 5px;
 	border: 0px none rgb(255, 255, 255);
+/* 	type: Submit; */
 }
 button:hover{
 	background-color: yellow;
